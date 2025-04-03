@@ -16,15 +16,17 @@ st.markdown(
         background-position: center;
     }
 
+    /* Define cor branca no modo escuro */
     @media (prefers-color-scheme: dark) {
-        html, body, [class*="css"] {
-            color: white;
+        html, body, .stApp, .css-ffhzg2, .css-1d391kg, .css-1cpxqw2 {
+            color: white !important;
         }
     }
 
+    /* Define cor preta no modo claro */
     @media (prefers-color-scheme: light) {
-        html, body, [class*="css"] {
-            color: black;
+        html, body, .stApp, .css-ffhzg2, .css-1d391kg, .css-1cpxqw2 {
+            color: black !important;
         }
     }
 
