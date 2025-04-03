@@ -6,7 +6,7 @@ st.set_page_config(
     layout="centered",
 )
 
-# Estilo com imagem de fundo (custom CSS)
+
 st.markdown(
     """
     <style>
@@ -14,8 +14,20 @@ st.markdown(
         background-image: url('https://images.unsplash.com/photo-1581090700227-1e37b1904181?auto=format&fit=crop&w=1400&q=80');
         background-size: cover;
         background-position: center;
-        color: white;
     }
+
+    @media (prefers-color-scheme: dark) {
+        html, body, [class*="css"] {
+            color: white;
+        }
+    }
+
+    @media (prefers-color-scheme: light) {
+        html, body, [class*="css"] {
+            color: black;
+        }
+    }
+
     .question {
         background-color: rgba(0, 0, 0, 0.6);
         padding: 20px;
@@ -26,6 +38,10 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
+
+
+
+
 
 st.markdown("<h1 style='text-align: center;'>🧠 Teste de QI Interativo</h1>", unsafe_allow_html=True)
 
