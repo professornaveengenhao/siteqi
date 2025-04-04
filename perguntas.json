@@ -1,0 +1,153 @@
+[
+    {
+      "id": 1,
+      "pergunta": "Qual número completa a sequência: 2, 4, 8, 16, ?",
+      "opcoes": ["18", "20", "24", "32"],
+      "correta": "32"
+    },
+    {
+      "id": 2,
+      "pergunta": "Qual letra vem a seguir? D, F, H, J, ?",
+      "opcoes": ["K", "L", "M", "N"],
+      "correta": "L"
+    },
+    {
+      "id": 3,
+      "pergunta": "Se todos os gatos são felinos e alguns felinos são pretos, podemos afirmar que:",
+      "opcoes": ["Todos os gatos são pretos", "Alguns gatos são pretos", "Nenhum gato é preto", "Não é possível afirmar"],
+      "correta": "Não é possível afirmar"
+    },
+    {
+      "id": 4,
+      "pergunta": "Qual é o resultado da expressão: (3 + 2) × (6 ÷ 2) ?",
+      "opcoes": ["15", "10", "12", "20"],
+      "correta": "15"
+    },
+    {
+      "id": 5,
+      "pergunta": "Um cubo tem 6 faces. Se você pintar todas e cortar em 64 cubinhos iguais, quantos terão 3 faces pintadas?",
+      "opcoes": ["4", "6", "8", "12"],
+      "correta": "8"
+    },
+    {
+      "id": 6,
+      "pergunta": "Qual número completa a sequência: 1, 1, 2, 3, 5, 8, ?",
+      "opcoes": ["10", "11", "13", "14"],
+      "correta": "13"
+    },
+    {
+      "id": 7,
+      "pergunta": "Quantos lados tem um hexágono?",
+      "opcoes": ["5", "6", "7", "8"],
+      "correta": "6"
+    },
+    {
+      "id": 8,
+      "pergunta": "Se hoje é quarta-feira, que dia será daqui a 10 dias?",
+      "opcoes": ["Sábado", "Domingo", "Segunda-feira", "Sexta-feira"],
+      "correta": "Sábado"
+    },
+    {
+      "id": 9,
+      "pergunta": "Se um trem vai de A para B a 60 km/h e volta a 40 km/h, qual é a velocidade média total?",
+      "opcoes": ["50", "48", "52", "45"],
+      "correta": "48"
+    },
+    {
+      "id": 10,
+      "pergunta": "Qual figura completa a sequência lógica: círculo, quadrado, triângulo, círculo, quadrado, ?",
+      "opcoes": ["Círculo", "Quadrado", "Triângulo", "Hexágono"],
+      "correta": "Triângulo"
+    },
+    {
+      "id": 11,
+      "pergunta": "Qual é o número que, somado a 3 e multiplicado por 2, resulta em 14?",
+      "opcoes": ["4", "5", "6", "7"],
+      "correta": "4"
+    },
+    {
+      "id": 12,
+      "pergunta": "Quantas vogais existem na palavra 'INTELIGENTE'?",
+      "opcoes": ["5", "6", "7", "8"],
+      "correta": "5"
+    },
+    {
+      "id": 13,
+      "pergunta": "Qual número é o dobro da metade de 40?",
+      "opcoes": ["20", "40", "30", "50"],
+      "correta": "40"
+    },
+    {
+      "id": 14,
+      "pergunta": "Se Pedro tem o dobro da idade de João, e João tem 10 anos, qual a idade de Pedro?",
+      "opcoes": ["10", "15", "20", "25"],
+      "correta": "20"
+    },
+    {
+      "id": 15,
+      "pergunta": "Complete: 1, 4, 9, 16, 25, ?",
+      "opcoes": ["36", "30", "32", "40"],
+      "correta": "36"
+    },
+    {
+      "id": 16,
+      "pergunta": "O que vem a seguir? 100, 90, 81, 73, ?",
+      "opcoes": ["66", "65", "64", "67"],
+      "correta": "66"
+    },
+    {
+      "id": 17,
+      "pergunta": "Qual é o próximo número primo após 11?",
+      "opcoes": ["13", "15", "14", "17"],
+      "correta": "13"
+    },
+    {
+      "id": 18,
+      "pergunta": "Qual destas palavras está incorretamente escrita?",
+      "opcoes": ["Excessão", "Exceção", "Exatidão", "Exemplo"],
+      "correta": "Excessão"
+    },
+    {
+      "id": 19,
+      "pergunta": "Quantos segundos há em 2 horas?",
+      "opcoes": ["7200", "3600", "1800", "9600"],
+      "correta": "7200"
+    },
+    {
+      "id": 20,
+      "pergunta": "Qual o próximo número da sequência: 81, 27, 9, 3, ?",
+      "opcoes": ["1", "2", "0", "4"],
+      "correta": "1"
+    },
+    {
+      "id": 21,
+      "pergunta": "Se todos os livros são objetos, e alguns objetos são azuis, podemos afirmar que:",
+      "opcoes": ["Alguns livros são azuis", "Todos os livros são azuis", "Nenhum livro é azul", "Não é possível afirmar"],
+      "correta": "Não é possível afirmar"
+    },
+    {
+      "id": 22,
+      "pergunta": "Qual é o valor de 3² + 4²?",
+      "opcoes": ["12", "16", "25", "20"],
+      "correta": "25"
+    },
+    {
+      "id": 23,
+      "pergunta": "Qual é a raiz quadrada de 121?",
+      "opcoes": ["10", "11", "12", "13"],
+      "correta": "11"
+    },
+    {
+      "id": 24,
+      "pergunta": "Qual número é divisível por 2, 3 e 5 ao mesmo tempo?",
+      "opcoes": ["15", "30", "60", "45"],
+      "correta": "30"
+    },
+    {
+      "id": 25,
+      "pergunta": "Se Maria caminha 4 km por dia, quantos km ela percorre em 3 semanas?",
+      "opcoes": ["84", "60", "88", "76"],
+      "correta": "84"
+    }
+  ]
+  
